@@ -18,7 +18,7 @@ def detect_numbers_intrus(numbers):
     for number,count in counts.items():
         if count == 1:
             return number
-        return None
+    return None
 def filter_positive_numbers(numbers):
     return [number for number in numbers if number > 0]
 
