@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="17acba5748e5396b-1" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" parent="1" vertex="1">
-          <mxGeometry x="20" y="30" width="820" height="1060" as="geometry" />
+          <mxGeometry x="20" y="30" width="1122" height="1060" as="geometry" />
         </mxCell>
         <mxCell id="5d2195bd80daf111-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;labelBackgroundColor=none;startFill=0;endArrow=open;endFill=0;endSize=10;fontFamily=Verdana;fontSize=10;strokeColor=#EEEEEE;fontColor=default;" parent="1" source="17acba5748e5396b-2" target="5d2195bd80daf111-9" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -91,7 +91,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5d2195bd80daf111-5" value="Classement des livres du premier vote" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;strokeColor=#BAC8D3;fontColor=#182E3E;" parent="1" vertex="1">
-          <mxGeometry x="660" y="287" width="180" height="83" as="geometry" />
+          <mxGeometry x="800" y="287" width="180" height="83" as="geometry" />
         </mxCell>
         <mxCell id="5d2195bd80daf111-6" value="+ field: type" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#182E3E;" parent="5d2195bd80daf111-5" vertex="1">
           <mxGeometry y="26" width="180" height="26" as="geometry" />
@@ -140,7 +140,7 @@
         <mxCell id="5d2195bd80daf111-13" value="&amp;laquo;interface&amp;raquo;&lt;br&gt;&lt;b&gt;Name&lt;/b&gt;" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" parent="1" vertex="1">
           <mxGeometry x="380" y="495" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5d2195bd80daf111-14" value="«interface»&lt;br&gt;&lt;b&gt;présentation de la deuxième liste des livres&lt;/b&gt;" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" parent="1" vertex="1">
+        <mxCell id="5d2195bd80daf111-14" value="«interface»&lt;br&gt;&lt;b&gt;présentation de la deuxième liste des livres&lt;/b&gt;" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;" parent="1" vertex="1">
           <mxGeometry x="510" y="420" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5d2195bd80daf111-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;labelBackgroundColor=none;startFill=0;endArrow=open;endFill=0;endSize=10;fontFamily=Verdana;fontSize=10;strokeColor=#EEEEEE;fontColor=default;" parent="1" source="5d2195bd80daf111-15" target="5d2195bd80daf111-17" edge="1">
